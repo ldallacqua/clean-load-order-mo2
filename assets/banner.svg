@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-label="Clean Load Order: one click, your whole load order cleaned">
+  <rect width="1200" height="340" rx="12" fill="#12161B"/>
+  <rect x=".5" y=".5" width="1199" height="339" rx="12" fill="none" stroke="#323A45"/>
+  <g font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif">
+    <text x="64" y="128" font-size="56" font-weight="700" fill="#F2F5F8">Clean Load Order</text>
+    <text x="64" y="176" font-size="24" fill="#97A2B0">One click. Your whole load order, cleaned.</text>
+    <text x="64" y="256" font-size="17" fill="#7B8696">A Mod Organizer 2 plugin for Skyrim Special Edition,</text>
+    <text x="64" y="282" font-size="17" fill="#7B8696">powered by SSEEdit's Quick Auto Clean and LOOT's masterlist.</text>
+  </g>
+  <g transform="translate(740 56)">
+    <rect width="396" height="228" rx="6" fill="#1C2128" stroke="#323A45"/>
+    <g font-family="'Cascadia Mono', Consolas, Menlo, monospace" font-size="15">
+      <g id="rows">
+        <rect x="16" y="20" width="16" height="16" rx="3" fill="#33C79B"/><path d="M20 28.5l3 3 5.5-6.5" fill="none" stroke="#14181D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="44" y="33" fill="#D9DFE6">Update.esm</text><text x="380" y="33" fill="#4FD1AA" text-anchor="end">334 ITMs</text>
+        <rect x="16" y="56" width="16" height="16" rx="3" fill="#33C79B"/><path d="M20 64.5l3 3 5.5-6.5" fill="none" stroke="#14181D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="44" y="69" fill="#D9DFE6">Dawnguard.esm</text><text x="380" y="69" fill="#4FD1AA" text-anchor="end">759 ITMs</text>
+        <rect x="16" y="92" width="16" height="16" rx="3" fill="#33C79B"/><path d="M20 100.5l3 3 5.5-6.5" fill="none" stroke="#14181D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="44" y="105" fill="#D9DFE6">HearthFires.esm</text><text x="380" y="105" fill="#4FD1AA" text-anchor="end">221 ITMs</text>
+        <rect x="16" y="128" width="16" height="16" rx="3" fill="#33C79B"/><path d="M20 136.5l3 3 5.5-6.5" fill="none" stroke="#14181D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="44" y="141" fill="#D9DFE6">Dragonborn.esm</text><text x="380" y="141" fill="#4FD1AA" text-anchor="end">82 ITMs</text>
+        <rect x="16.5" y="164.5" width="15" height="15" rx="3" fill="#12161B" stroke="#6B7684"/>
+        <text x="44" y="177" fill="#7B8696">Skyrim.esm</text><text x="380" y="177" fill="#7B8696" text-anchor="end">skipped</text>
+        <text x="16" y="212" fill="#97A2B0">+ every other active plugin</text>
+      </g>
+    </g>
+  </g>
+</svg>
